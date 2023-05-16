@@ -11,7 +11,7 @@ Make sure you have the following installed:
 # Installation
 Clone this repository and navigate to the project directory:
 ```
-git clone https://github.com/ian2102/sudoku-solver/sudoku-solver.git
+git clone https://github.com/ian2102/sudoku-solver.git
 cd sudoku-solver
 ```
 
