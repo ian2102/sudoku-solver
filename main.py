@@ -2,8 +2,6 @@ import os
 import random
 import pygame
 
-os.environ['SDL_VIDEODRIVER'] = 'x11'
-
 WIDTH = 900
 
 WHITE = (255, 255, 255)
