@@ -18,7 +18,7 @@ cd sudoku-solver
 # Usage
 Run the application using the following command:
 ```
-python main.py
+python sudoku-solver.py
 ```
 
 # License
